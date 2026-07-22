@@ -92,7 +92,7 @@ Top-K chunks más relevantes (K=4 por defecto)
 Prompt template: system + contexto + pregunta
       │
       ▼
-ChatGoogleGenerativeAI (Gemini 2.0 Flash, temperature=0.1)
+ChatGoogleGenerativeAI (Gemini 3.5 Flash, temperature=0.1)
       │
       ▼
 StrOutputParser → texto de respuesta
@@ -108,7 +108,7 @@ AgentResponse(agent_name, answer, sources, chunks_used, found_info)
 | Componente | Librería / Versión instalada | Rol |
 |---|---|---|
 | LLM principal | `langchain-google-genai` (4.3.1) | Interfaz con Google Gemini para chat, embeddings y visión |
-| Modelo LLM | Google Gemini 2.0 Flash | Generación de respuestas, clasificación de intención, extracción de datos |
+| Modelo LLM | Google Gemini 3.5 Flash | Generación de respuestas, clasificación de intención, extracción de datos |
 | Embeddings | `GoogleGenerativeAIEmbeddings` (text-embedding-004) | Vectorización de chunks de texto para búsqueda semántica |
 | Vector store | `langchain-chroma` + `chromadb` (1.5.9) | Almacenamiento y consulta de índices vectoriales con persistencia en disco |
 | Framework IA | `langchain` (1.3.14) + `langchain-community` (0.4.2) | Chains, retrievers, loaders, splitters |
@@ -300,7 +300,7 @@ Pillow                   → procesamiento de imágenes (codificación base64)
 1. Ve a [Google AI Studio](https://aistudio.google.com/).
 2. Inicia sesión con tu cuenta de Google.
 3. Haz clic en **"Get API key"** → **"Create API key"**.
-4. Copia la key generada (empieza con `AIzaSy...`).
+4. Copia la key generada
 
 ### Configurar en el notebook
 
