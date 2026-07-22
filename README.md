@@ -571,7 +571,7 @@ Ninguno de estos archivos debe subirse al repositorio de GitHub.
 ```python
 GEMINI_MODEL = "gemini-2.0-flash"   # rápido, por defecto
 GEMINI_MODEL = "gemini-1.5-pro"     # mayor razonamiento, más lento
-GEMINI_MODEL = "gemini-2.5-flash"   # versión más reciente
+GEMINI_MODEL = "gemini-3.5-flash"   # versión más reciente
 ```
 
 ### Ajustar parámetros RAG
