@@ -597,7 +597,7 @@ TOP_K_RETRIEVAL = 4     # aumentar para más contexto, disminuir para más preci
 Este proyecto se distribuye bajo la licencia **MIT**. Los documentos de la base de conocimiento son contenido ficticio creado exclusivamente con fines académicos para el Semillero de Inteligencia Artificial.
 
 ```
-MIT License — Copyright (c) 2025 <tu-nombre>
+MIT License — Copyright (c) 2025 
 
 Se permite el uso, copia, modificación y distribución de este software
 sin restricción, siempre que se incluya este aviso de copyright.
