@@ -6,7 +6,7 @@ Sistema **multi-agente de Inteligencia Artificial** para el equipo de Marketing 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-1.x-green)](https://www.langchain.com/)
-[![Gemini](https://img.shields.io/badge/Google%20Gemini-2.0%20Flash-orange?logo=google)](https://aistudio.google.com/)
+[![Gemini](https://img.shields.io/badge/Google%20Gemini-3.5%20Flash-orange?logo=google)](https://aistudio.google.com/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-1.5.9-red)](https://www.trychroma.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#licencia)
